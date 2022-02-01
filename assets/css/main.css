@@ -33,6 +33,14 @@ body {
 	line-height: 1;
 }
 
+.big-font {
+	font-size: 1.12rem;
+}
+
+.margin-rt{
+	margin-right: 0.8rem;
+}
+
 ol, ul {
 	list-style: none;
 }
